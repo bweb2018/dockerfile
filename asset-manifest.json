@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbb9b742.css",
+    "main.js": "/bundle.js",
+    "main.js.map": "/bundle.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.35fa1abf72363c9f6ea9654cdca99c55.js": "/precache-manifest.35fa1abf72363c9f6ea9654cdca99c55.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bbb9b742.css.map": "/static/css/main.bbb9b742.css.map"
+  }
+}
